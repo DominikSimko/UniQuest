@@ -14,6 +14,8 @@ public class Main {
         double a[][] = new double[m][m];
         //asdasd
 
+        //adding coment
+        
         //adding numbers into a array
         for(int a_i=0; a_i < m; a_i++){
             for(int a_j=0; a_j < m; a_j++){
